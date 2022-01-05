@@ -1,0 +1,54 @@
+.video{
+    display: flex;
+    margin: 15px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+}
+.title{
+    text-align: center;
+    margin: 15px;
+    padding: 10px;
+}
+p{
+    text-align: left;
+    margin-top: 30px;
+    font-size: 18px;
+}
+h3{
+    font-size: 24px;
+    text-align: center;
+}
+.col-4{
+    background-color: slategray;
+    padding: 10px;
+    border: solid white 5px;
+    display: flexbox;
+    color: white;
+    border-radius: 2%;
+}
+.imagenCurso{
+    width: 300px;
+    margin-top: 10px;
+}
+.btn{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+a{
+    text-decoration: none;
+}
+.col-4:hover{
+    border: solid purple;
+}
+.formulary{
+    margin: 20px;
+    padding-top: 20px;
+}
+.purple{
+    background-color: purple;
+}
+.logoboot{
+    width: 400px;
+    padding-top: 50px;
+}
